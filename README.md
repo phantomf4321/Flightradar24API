@@ -17,6 +17,9 @@ Check incoming and outgoing flights to Mashhad and Tehran.
 ```
 pip install FlightRadarAPI
 ```
+```
+pip install folium
+```
 
 ## maps
 
