@@ -1,8 +1,6 @@
 from matplotlib import pyplot as plt
 import folium
 
-from defaults import Mashhad
-from defaults import Tehran
 
 from FlightRadar24.api import FlightRadar24API
 fr_api = FlightRadar24API()
