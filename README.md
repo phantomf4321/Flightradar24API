@@ -10,3 +10,9 @@ Check incoming and outgoing flights to Mashhad and Tehran.
     <img src="https://s8.uupload.ir/files/mehrabad-airport-4_r8zx.jpg" height="200" />
   </p>
 </center>
+
+
+```
+pip install FlightRadarAPI
+```
+
