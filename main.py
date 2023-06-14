@@ -14,7 +14,7 @@ import folium
 
 import time
 
-c1 = city.City(defaults.Tehran)
+c1 = city.City(defaults.Mashhad)
 bound = c1.get_bound()
 flights = fr_api.get_flights(bounds = bound)
 
