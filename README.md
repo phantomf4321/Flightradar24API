@@ -11,12 +11,19 @@ Check incoming and outgoing flights to Mashhad and Tehran.
   </p>
 </center>
 
-
+## Requirements
 ```
 pip install FlightRadarAPI
 ```
 ```
 pip install folium
+```
+
+## Run
+The **main.py** can check the flights in the airspace every 10 seconds. You can also check the **sample.py** to see a sample of observed flights above Tehran.
+You can also add the cities and regions you need to the program by visiting the **Defaults** folder. One of the best ways to create airspace is to use Google Maps.
+```
+python3 main.py
 ```
 
 ## maps
