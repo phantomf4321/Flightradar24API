@@ -1,7 +1,6 @@
 
 # Flightradar24API
-
-Check incoming and outgoing flights to Mashhad and Tehran.
+Where did the plane flying above me come from and where is it going?
 
 
 <center>
