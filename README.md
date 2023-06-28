@@ -1,3 +1,7 @@
+<p>
+<img alt="GitHub repo size" src="https://github.com/phantomf4321/Flightradar24API">
+<img alt="GitHub contributors" src="https://github.com/phantomf4321/Flightradar24API">
+</p>
 
 # Flightradar24API
 Where did the plane flying above me come from and where is it going?
