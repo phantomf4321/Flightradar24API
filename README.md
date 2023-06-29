@@ -1,6 +1,6 @@
 <p>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/phantomf4321/Flightradar24API">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/phantomf4321/Flightradar24API>
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/phantomf4321/Flightradar24API">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/phantomf4321/Flightradar24API">
 </p>
 
 # Flightradar24API
