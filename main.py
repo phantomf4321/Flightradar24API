@@ -11,7 +11,6 @@ from io import BytesIO
 from matplotlib import pyplot as plt
 
 import folium
-
 import time
 
 c1 = city.City(defaults.Tehran)
