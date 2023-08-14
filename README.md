@@ -11,6 +11,8 @@ Where did the plane flying above me come from and where is it going?
   <p float="left">
     <img src="https://s8.uupload.ir/files/screenshot_from_2023-06-14_09-36-28_22kz.png" height="200" />
     <img src="https://s8.uupload.ir/files/screenshot_from_2023-06-14_09-31-19_iy1f.png" height="200" /> 
+    <img src="https://s8.uupload.ir/files/screenshot_from_2023-08-14_10-37-57_iqmf.png" height="200" /> 
+    <img src="https://s8.uupload.ir/files/screenshot_from_2023-08-14_10-38-28_vsf3.png" height="200" /> 
   </p>
 </center>
 
